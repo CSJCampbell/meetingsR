@@ -149,7 +149,7 @@
   * Cambridge: [CambR](http://www.cambr.org.uk/)
   * Coventry: [Warwick R User Group](http://warwick.ac.uk/wrug); [\@WarwickRUG](https://twitter.com/WarwickRUG)
   * Exeter: [Exeter](https://www.meetup.com/Exeter-R-Users-Group-Exeter-Devon-England/) R Users Group
-  * London: [LondonR](https://www.meetup.com/LondonR/)
+  * London: [LondonR](http://www.londonr.org)
   * Manchester: [ManchesterR](http://www.rmanchester.org/)
   * Newcastle: [R North East](https://rnortheast.github.io/); [\@RstatsNE](https://twitter.com/RstatsNE)
   * Nottingham: [Nottingham](https://www.meetup.com/NottinghamR-Nottingham-R-Users-Group/) R User group
